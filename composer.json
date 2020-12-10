@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/bpb-codingtest2",
+  "description": "Coding Test",
+  "authors": [
+    {
+      "name": "Dixie Philamerah Atay",
+      "email": "dixie.atay@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lib\\": "app/Lib"
+    }
+  }
+}
